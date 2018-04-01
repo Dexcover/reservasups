@@ -1,0 +1,4 @@
+[05-Jun-2017 22:55:30 America/Chicago] PHP Fatal error:  Class 'mPDF' not found in /home/softupcloud/preprod.softupcloud.com/application/libraries/M_pdf.php on line 13
+[05-Jun-2017 23:20:51 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_destroy() in /home/softupcloud/reservasups.softupcloud.com/application/controllers/Welcome.php on line 101
+[05-Jun-2017 23:22:29 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_destroy() in /home/softupcloud/reservasups.softupcloud.com/application/controllers/Welcome.php on line 101
+[05-Jun-2017 23:22:31 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_destroy() in /home/softupcloud/reservasups.softupcloud.com/application/controllers/Welcome.php on line 101
